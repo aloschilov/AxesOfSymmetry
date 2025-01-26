@@ -127,17 +127,11 @@ std::vector<std::pair<size_t, double>> get_symmetry_angles(const std::vector<Mat
 }
 
 //////////////////////////////////////////////////////////////////////////////
-/// @ingroup Linear algebra
+/// @brief This function tests position of point relation to ox
 ///
-/// @brief This function tests position of point relating to line
+/// @param angle - input - angle w.r.t. ox
 ///
-/// @param A - input - The first point of the line
-/// @param B - input - The second point of the line
-/// @param P - input - A point
-///
-/// @returns - > 0 above ox
-///	< 0 below ox
-///	0 on ox
+/// @returns - ON, ABOVE or BELOW
 ///
 //////////////////////////////////////////////////////////////////////////////
 RelationToOx angle_above_ox(double angle) {

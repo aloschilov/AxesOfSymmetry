@@ -1,5 +1,6 @@
 #include <numeric>
 #include <tuple>
+#include <cmath>
 #include "symmetry/symmetry.h"
 #include "symmetry/matrix.h"
 

@@ -25,3 +25,6 @@ Requirements
 4. Code accuracy is the main criteria for the successful result
 
 
+## Solution and approach
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/PomEYPIrjMw/0.jpg)](http://www.youtube.com/watch?v=PomEYPIrjMw "Calculation of polygon's lines of symmetry")

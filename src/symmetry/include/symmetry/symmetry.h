@@ -1,6 +1,7 @@
 #include <iostream>
 #include <numeric>
 #include <map>
+#include <vector>
 #include "matrix.h"
 
 enum RelationToOx
